@@ -122,12 +122,11 @@ a {
 .swiper-button-prev, .swiper-button-next {
   top: auto !important;
   bottom: 5% !important;
-  margin-left: 40%;
-  margin-right:49%;
-  font-size:5px;
   color: #000000;
-  background-color:#fff;
-  border-radius:20px;
+  background-color: #fff;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
 }
 
 /* Normal desktop :1200px. */
